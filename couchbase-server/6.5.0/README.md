@@ -4,7 +4,6 @@ Suspect License Report for couchbase-server 6.5.0
 
 |Component|Version|License(s)|
 | :--- | :--- | :--- |
-|omd - Open Monitoring Distribution Labs Edition|v3.20-labs-edition|[GNU General Public License v2.0 only](../../license-data/0289ba34-8fe7-41db-82e0-49c28b9c2414.txt)|
 |Boost C++ Libraries|1.67.0|[Boost Software License 1.0](../../license-data/26b23233-77bd-4cc2-8977-f312abd57327.txt)|
 |azureml-dataprep|1.1.14|[Basic Proprietary Commercial License](../../license-data/3eca8fb9-fca4-4b49-b4bd-189ba8efd691.txt)|
 |appdynamics-bindeps-linux-x86|10.0|[Basic Proprietary Commercial License](../../license-data/3eca8fb9-fca4-4b49-b4bd-189ba8efd691.txt)|
