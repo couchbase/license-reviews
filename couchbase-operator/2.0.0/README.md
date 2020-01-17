@@ -7,11 +7,11 @@ Suspect License Report for couchbase-operator 2.0.0
 |yaml for Go|20181220-snapshot|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt), [Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |gengo|20190402-snapshot-e17681d1|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |golang.org/x/tools|20180126-snapshot-2382e399|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
-|golang protobuf|v1.3.1|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
 |Go Logrus|v1.4.1|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
+|golang protobuf|v1.3.1|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
 |gengo|20180514-snapshot-01a732e0|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
-|client_golang|v0.9.2|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |go-logr/logr|v0.1.0|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
+|client_golang|v0.9.2|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |evanphx/json-patch|v4.2.0|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
 |k8s.io/code-generator|kubernetes-1.13.1|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |grpc-go|v1.20.1|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
@@ -40,11 +40,11 @@ Suspect License Report for couchbase-operator 2.0.0
 |urlesc|20180307-snapshot|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
 |client-go|kubernetes-1.13.1|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |couchbase/gocbmgr|20191107-snapshot-f5d6c1ae|[Unknown License](../../license-data/00000000-0010-0000-0000-000000000000.txt)|
-|spf13-cobra|v0.0.4|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |appscode/jsonpatch|1.0.0|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
+|spf13-cobra|v0.0.4|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |matttproud-golang_protobuf_extensions|v1.0.1|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
-|jwt-go|v3.2.0|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |go-openapi/errors|v0.17.2|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
+|jwt-go|v3.2.0|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |go-openapi/jsonpointer|20190307-snapshot|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |hashicorp-golang-lru|v0.5.1|[Mozilla Public License 2.0](../../license-data/ce3dd63e-c569-4cea-986a-46bc5efe9896.txt)|
 |yaml for Go|v2.2.2|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt), [Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
