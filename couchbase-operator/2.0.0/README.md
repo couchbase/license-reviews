@@ -40,8 +40,8 @@ Suspect License Report for couchbase-operator 2.0.0
 |urlesc|20180307-snapshot|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
 |client-go|kubernetes-1.13.1|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |couchbase/gocbmgr|20191107-snapshot-f5d6c1ae|[Unknown License](../../license-data/00000000-0010-0000-0000-000000000000.txt)|
-|spf13-cobra|v0.0.4|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |appscode/jsonpatch|1.0.0|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
+|spf13-cobra|v0.0.4|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |matttproud-golang_protobuf_extensions|v1.0.1|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |jwt-go|v3.2.0|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |go-openapi/errors|v0.17.2|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
@@ -53,6 +53,7 @@ Suspect License Report for couchbase-operator 2.0.0
 |kubernetes/apimachinery|20190617-snapshot|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |kubernetes/apiextensions-apiserver|kubernetes-1.13.1|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |golang-github-ghodss-yaml-dev|1.0.0|[Expat License](../../license-data/19bd4215-a4d4-4ffe-8e54-fcd9558d4e96.txt)|
+|robfig/cron|3.0.0|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |kubernetes/apimachinery|kubernetes-1.13.1|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |modern-go/concurrent|1.0.3|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |go-restful|20180624-snapshot|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
@@ -66,8 +67,8 @@ Suspect License Report for couchbase-operator 2.0.0
 |groupcache|20190208-snapshot-5b532d6f|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |go-openapi/spec|20190214-snapshot|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |prometheus-common|v0.3.0|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
-|OpenCensus|0.2.0|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |jsoniter-go|v1.1.6|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
+|OpenCensus|0.2.0|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |uber-go/atomic|v1.4.0|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |purell|20190115-snapshot|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
 |k8s.io/klog|v0.3.0|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
@@ -75,8 +76,8 @@ Suspect License Report for couchbase-operator 2.0.0
 |modern-go/reflect2|1.0.1|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |mailru/easyjson|20190211-snapshot|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |go-ini-ini|v1.42.0|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
-|golang-github-spf13-pflag-dev|1.0.3|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
 |github.com/konsorten/go-windows-terminal-sequences|v1.0.2|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
+|golang-github-spf13-pflag-dev|1.0.3|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
 |google/go-genproto|20190508-snapshot-54afdca5|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |go-spew|v1.1.1|[ISC License](../../license-data/14b0b50b-acd2-4fc8-ac65-3b15f9e58260.txt)|
 |k8s.io/code-generator|20180820-snapshot|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
