@@ -20,14 +20,14 @@ Suspect License Report for couchbase-lite-java 2.8.0
 |Commons IO|2.4|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |google-gson|2.5|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |org.jetbrains.kotlin:kotlin-scripting-compiler-embeddable|1.3.50|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
-|Apache Commons Collections|3.2.2|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |Android Support Library Annotations|28.0.0|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
+|Apache Commons Collections|3.2.2|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |org.jetbrains.kotlin:kotlin-stdlib-jdk8|1.3.50|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |FindBugs-Annotations|3.0.1|[GNU Lesser General Public License v2.1 or later](../../license-data/cff110eb-f85c-445c-9d3b-00a04b7f4cf0.txt)|
 |ASM|5.0.4|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
 |ASM Tree|5.0.2|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
-|kotlin-stdlib-common|1.3.50|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |ANTLR|2.7.7|[ANTLR Software Rights Notice](../../license-data/61aeeb42-688c-4713-804d-4669f66b3fbd.txt)|
+|kotlin-stdlib-common|1.3.50|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |Guava: Google Core Libraries for Java|27.0.1-jre|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |AppleJavaExtensions|1.4|[Apple Public Source License 1.2](../../license-data/957725d1-7167-44c6-bea8-4181bd1d97c7.txt)|
 |Checker Qual|2.5.2|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
@@ -56,8 +56,8 @@ Suspect License Report for couchbase-lite-java 2.8.0
 |Apache Commons BeanUtils|1.9.3|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |ASM Commons|5.0.2|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
 |Guava InternalFutureFailureAccess and InternalFutures|1.0.1|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
-|Animal Sniffer Annotations|1.17|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |OkHttp|3.9.1|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
+|Animal Sniffer Annotations|1.17|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |Kotlin Stdlib|1.3.50|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |Apache Commons Lang|3.4|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |FindBugs - findbugs eclipse plugin|6.0|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
