@@ -43,16 +43,16 @@ Suspect License Report for couchbase-operator 2.0.0
 |spf13-cobra|v0.0.4|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |appscode/jsonpatch|1.0.0|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |matttproud-golang_protobuf_extensions|v1.0.1|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
-|go-openapi/errors|v0.17.2|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |jwt-go|v3.2.0|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
+|go-openapi/errors|v0.17.2|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |go-openapi/jsonpointer|20190307-snapshot|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |hashicorp-golang-lru|v0.5.1|[Mozilla Public License 2.0](../../license-data/ce3dd63e-c569-4cea-986a-46bc5efe9896.txt)|
 |yaml for Go|v2.2.2|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt), [Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |inconshreveable/mousetrap|v1.0|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |Docker-org|20181023-snapshot-6480d4af|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt), [Educational Community License v2.0](../../license-data/ab569682-1b26-43b6-8105-53b2094f7313.txt)|
 |kubernetes/apimachinery|20190617-snapshot|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
-|kubernetes/apiextensions-apiserver|kubernetes-1.13.1|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |golang-github-ghodss-yaml-dev|1.0.0|[Expat License](../../license-data/19bd4215-a4d4-4ffe-8e54-fcd9558d4e96.txt)|
+|kubernetes/apiextensions-apiserver|kubernetes-1.13.1|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |robfig/cron|3.0.0|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |kubernetes/apimachinery|kubernetes-1.13.1|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |modern-go/concurrent|1.0.3|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
@@ -76,8 +76,8 @@ Suspect License Report for couchbase-operator 2.0.0
 |k8s.io/kube-openapi|20170902-snapshot|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |modern-go/reflect2|1.0.1|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |go-ini-ini|v1.42.0|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
-|github.com/konsorten/go-windows-terminal-sequences|v1.0.2|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |golang-github-spf13-pflag-dev|1.0.3|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
+|github.com/konsorten/go-windows-terminal-sequences|v1.0.2|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |google/go-genproto|20190508-snapshot-54afdca5|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |go-spew|v1.1.1|[ISC License](../../license-data/14b0b50b-acd2-4fc8-ac65-3b15f9e58260.txt)|
 |k8s.io/code-generator|20180820-snapshot|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
