@@ -22,8 +22,8 @@ Suspect License Report for couchbase-operator 2.0.0
 |contrib.go.opencensus.io/exporter/ocagent|v0.4.12|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |gregjones/httpcache|20190214-snapshot-3befbb6a|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |grpc-gateway|v1.8.5|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
-|sigs.k8s.io/yaml|v1.1.0|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt), [MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |golang/appengine|v1.5.0|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
+|sigs.k8s.io/yaml|v1.1.0|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt), [MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |gogo-protobuf|20171108-snapshot-c0656edd|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
 |mergo|v0.3.7|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
 |GoLLRB|20130427-snapshot-53be0d36|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
