@@ -43,8 +43,8 @@ Suspect License Report for couchbase-server 6.5.1
 |ramda|0.25.0|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |folsom|0.8.1|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |go-jsonpointer|20160814-snapshot-ba0abeac|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
-|FlatBuffers|1.5.0|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |spf13-cobra|20161117-snapshot|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
+|FlatBuffers|1.5.0|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |jsonpointer.js|0.4.0|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |ace-builds|1.2.2|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
 |krestenkrab's triq|20151018-snapshot-c7306b8e|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
@@ -56,21 +56,21 @@ Suspect License Report for couchbase-server 6.5.1
 |golang.org/x/crypto|20171002-snapshot-eb71ad9b|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
 |goleveldb|0+git20160825.6ae1797|[BSD 2-clause "Simplified" License](../../license-data/cc875133-df38-4806-9921-473e0ef01a87.txt)|
 |peterh/liner|v1.1.0|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
-|flatbuffers-java-grpc|1.10.0|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |angular-route|1.7.8|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
+|flatbuffers-java-grpc|1.10.0|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |cote|0.17.1|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |golang.org/x/text|20171230-snapshot|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
-|ace-builds|v1.1.2|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
 |json|3.5.0|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
+|ace-builds|v1.1.2|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
 |docker-cli|20180417-snapshot|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt), [BSD 2-clause "Simplified" License](../../license-data/cc875133-df38-4806-9921-473e0ef01a87.txt), [MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt), [ISC License](../../license-data/14b0b50b-acd2-4fc8-ac65-3b15f9e58260.txt), [Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt), [Educational Community License v2.0](../../license-data/ab569682-1b26-43b6-8105-53b2094f7313.txt)|
 |Symphony Authenticator Service Java Client|0.9.0|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |Gorilla Web Toolkit|20170523-snapshot|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
 |sortablejs|1.6.0|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
-|golang-github-spf13-pflag-dev|20170607-snapshot|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
 |steveyen-gtreap|0.0~git20150807.0.0abe01e|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
+|golang-github-spf13-pflag-dev|20170607-snapshot|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
 |teepark/ldbrest|20150501-snapshot-b8400830|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
-|willf/bitset|v1.0.0|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
 |tracymacding/goleveldb|20160629-snapshot-ab8b5dcf|[BSD 2-clause "Simplified" License](../../license-data/cc875133-df38-4806-9921-473e0ef01a87.txt)|
+|willf/bitset|v1.0.0|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
 |tdewolff-strconv|20171112-snapshot-8fc9bd05|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |humanize-plus|1.5.0|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |Bootstrap (Twitter)|0.13|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
@@ -80,8 +80,8 @@ Suspect License Report for couchbase-server 6.5.1
 |Angular|1.6.9|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |Google V8 JavaScript Engine|7.1.321|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
 |Angular UI Bootstrap|2.1.3|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
-|@angular/router|6.1.0|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |jQuery UI|1.12.1|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
+|@angular/router|6.1.0|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |Spring Initializr :: Generator|0.5.0.RELEASE|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |@angular/platform-browser-dynamic|6.1.0|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |buger/jsonparser|0|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
@@ -94,8 +94,8 @@ Suspect License Report for couchbase-server 6.5.1
 |go-curl|20180313-snapshot-9d81ad32|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |simplemde|1.7.1|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |google/uuid|20180409-snapshot|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
-|ace-builds|v1.4.6|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
 |pierrec-lz4|v1.1|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
+|ace-builds|v1.4.6|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
 |olekukonko/ts|0.0~git20140412.0.ecf753e|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |Esprima|2.7.2|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
 |@angular/animations|6.1.0|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
@@ -117,24 +117,24 @@ Suspect License Report for couchbase-server 6.5.1
 |tdewolff-parse|v2.0.0|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |@angular/core|6.1.0|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |grpc-go|20190429-snapshot|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
-|tdewolff-buffer|v1.0.0|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |google-glog|0.3.5|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
+|tdewolff-buffer|v1.0.0|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |jQuery|2.1.4|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |golang-github-seiflotfy-cuckoofilter|0.0~git20160609.0.d048387|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |golang.org/x/net|20180223-snapshot|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
 |Bootstrap (Twitter)|3.3.6-jQuery3|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |com.tagtraum:libz|4.0.0|[zlib License](../../license-data/7bf4506f-7531-4655-a4bf-e9deb4d2cc8e.txt)|
 |Flex|2.5.4a|[Flex License (BSD 2.0 -)](../../license-data/0e5fda39-08e4-4025-a640-1d2e08082be3.txt)|
-|golang-github-elazarl-go-bindata-assetfs-dev|20170227-snapshot-30f82fa2|[BSD 2-clause "Simplified" License](../../license-data/cc875133-df38-4806-9921-473e0ef01a87.txt)|
 |Go programming language|20180709-snapshot|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
+|golang-github-elazarl-go-bindata-assetfs-dev|20170227-snapshot-30f82fa2|[BSD 2-clause "Simplified" License](../../license-data/cc875133-df38-4806-9921-473e0ef01a87.txt)|
 |@angular/compiler|6.1.0|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
-|@angular/common|6.1.0|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |spf13-cobra|20180519-snapshot-16c014f1|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
+|@angular/common|6.1.0|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |couchbase-go-couchbase|20180430-snapshot-16db1f1f|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |julienschmidt/httprouter|20170430-snapshot-975b5c4c|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
 |libcouchbase|2.10.5|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
-|Zone.js|0.8.26|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |blevesearch/bleve-mapping-ui|20170330-snapshot-f551b6d4|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
+|Zone.js|0.8.26|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |PCRE|8.41|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
 |jQuery|1.10.2|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |grpcio|1.9.0rc2|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
@@ -156,15 +156,15 @@ Suspect License Report for couchbase-server 6.5.1
 |golang-github-json-iterator-go-dev|1.0.6|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |insight-bitcore|5.0.0-beta.12|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |blevesearch/snowballstem|20180110-snapshot-26b06a2c|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
-|FlatBuffers|v1.10.0|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |Go programming language|0.0~git20180322.88942b9|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
+|FlatBuffers|v1.10.0|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |github.com/syndtr/gosnappy|20150730-snapshot-156a0732|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
 |FileSaver.js|master-20150917|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |ergosphere-core|0.4.3|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |webstack|0.0.2|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
+|rebar|2.1.0-pre|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |dominikh/go-tools|2017.2.2|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt), [MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |glenn-brown/golang-pkg-pcre|20120522-snapshot-48bb82a8|[BSD 2-clause "Simplified" License](../../license-data/cc875133-df38-4806-9921-473e0ef01a87.txt)|
-|rebar|2.1.0-pre|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |golang protobuf|20190115-snapshot|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
 |gflags|2.2.1|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
 |zlib|1.2.11|[zlib License](../../license-data/7bf4506f-7531-4655-a4bf-e9deb4d2cc8e.txt)|
@@ -172,17 +172,17 @@ Suspect License Report for couchbase-server 6.5.1
 |golang.org/x/tools|20181129-snapshot-e21233ff|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
 |Bootstrap (Twitter)|0.14.3 - 2015-10-23|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |seiflotfy/cuckoofilter|20180825-snapshot|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
-|Angular UI Bootstrap|0.14.1|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |sorttable|1.0.0|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |JSON for Modern C++|3.5.0|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
+|Angular UI Bootstrap|0.14.1|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |tinylib-msgp|20181103-snapshot|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |natefinch/npipe|20140709-snapshot-272c8150|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |Blob.js|0.0.1|[ISC License](../../license-data/14b0b50b-acd2-4fc8-ac65-3b15f9e58260.txt)|
 |geocouch|20180430-snapshot-92def13f|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |edsrzf/mmap-go|master-20160511|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
 |ngclipboard|1.1.1|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
-|golang.org/x/net|20170911-snapshot-66aacef3|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
 |HdrHistogram_c|0.9.11|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt), [Public Domain](../../license-data/d26bcb7d-5bc8-4f05-8942-a3a42728a2e4.txt)|
+|golang.org/x/net|20170911-snapshot-66aacef3|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
 |ngaut-go-zookeeper|0.0~git20150813.0.9c3719e|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
 |golang protobuf|20181130-snapshot|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
 |Couchbase|v6.0.3|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
@@ -211,12 +211,12 @@ Suspect License Report for couchbase-server 6.5.1
 |opentracing-cpp|v1.5.1|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |jemalloc|5.2.1|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
 |ares-project|0.2.11|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
-|Angular|1.7.9|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
-|DataDog/zstd|v1.3.4|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
 |Google Mock|1.8.0|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
+|DataDog/zstd|v1.3.4|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
+|Angular|1.7.9|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |@angular/platform-browser|6.1.0|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
-|angular-dropdown-multiselect|1.0.1|[ISC License](../../license-data/14b0b50b-acd2-4fc8-ac65-3b15f9e58260.txt)|
 |TypeScript|2.0.0|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
+|angular-dropdown-multiselect|1.0.1|[ISC License](../../license-data/14b0b50b-acd2-4fc8-ac65-3b15f9e58260.txt)|
 |erlang-poolboy|1.5.1|[Public Domain](../../license-data/d26bcb7d-5bc8-4f05-8942-a3a42728a2e4.txt)|
 |PCRE|8.43|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
 |inconshreveable/mousetrap|0.0~git20141017.0.76626ae|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
