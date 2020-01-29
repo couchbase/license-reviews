@@ -9,8 +9,8 @@ Suspect License Report for couchbase-lite-java 2.8.0
 |ASM|5.0.2|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
 |JCommander Library|1.48|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |jaxen|1.1.6|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
-|org.jetbrains.kotlin:kotlin-daemon-embeddable|1.3.50|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |picocli - a mighty tiny Command Line Interface|3.9.5|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
+|org.jetbrains.kotlin:kotlin-daemon-embeddable|1.3.50|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |Trove4J|1.0.20181211|[GNU Lesser General Public License v2.1 or later](../../license-data/cff110eb-f85c-445c-9d3b-00a04b7f4cf0.txt)|
 |JSON-java|20180813|[JSON License](../../license-data/1e26c7bd-0277-479d-bc67-454ff0686faa.txt)|
 |Checkstyle|8.18|[GNU Lesser General Public License v2.1 or later](../../license-data/cff110eb-f85c-445c-9d3b-00a04b7f4cf0.txt)|
@@ -27,8 +27,8 @@ Suspect License Report for couchbase-lite-java 2.8.0
 |ASM|5.0.4|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
 |ASM Tree|5.0.2|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
 |kotlin-stdlib-common|1.3.50|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
-|ANTLR|2.7.7|[ANTLR Software Rights Notice](../../license-data/61aeeb42-688c-4713-804d-4669f66b3fbd.txt)|
 |Guava: Google Core Libraries for Java|27.0.1-jre|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
+|ANTLR|2.7.7|[ANTLR Software Rights Notice](../../license-data/61aeeb42-688c-4713-804d-4669f66b3fbd.txt)|
 |Checker Qual|2.5.2|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |AppleJavaExtensions|1.4|[Apple Public Source License 1.2](../../license-data/957725d1-7167-44c6-bea8-4181bd1d97c7.txt)|
 |JUnit|4.12|[Common Public License 1.0](../../license-data/1b4e4c5b-800a-40ec-b4be-c1fc00fe7656.txt)|
@@ -38,8 +38,8 @@ Suspect License Report for couchbase-lite-java 2.8.0
 |org.jetbrains.kotlin:kotlin-stdlib-jdk7|1.3.50|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |OkIO|1.13.0|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |kotlin-script-runtime|1.3.50|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
-|org.jetbrains.kotlin:kotlin-scripting-jvm|1.3.50|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |kotlin-compiler|1.3.50|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
+|org.jetbrains.kotlin:kotlin-scripting-jvm|1.3.50|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |"Java Concurrency in Practice" book annotations|1.0|[Creative Commons Attribution 2.5](../../license-data/b066c1f2-31a8-43d9-9be4-d62e45f5f6bb.txt)|
 |Apache Commons Lang|2.6|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |FindBugs jsr305|2.0.1|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
@@ -56,8 +56,8 @@ Suspect License Report for couchbase-lite-java 2.8.0
 |Apache Commons BeanUtils|1.9.3|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |ASM Commons|5.0.2|[BSD 3-clause "New" or "Revised" License](../../license-data/3d238144-44e6-450e-b523-3defbdaed9dc.txt)|
 |OkHttp|3.9.1|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
-|Guava InternalFutureFailureAccess and InternalFutures|1.0.1|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |Animal Sniffer Annotations|1.17|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
+|Guava InternalFutureFailureAccess and InternalFutures|1.0.1|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |Kotlin Stdlib|1.3.50|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |Apache Commons Lang|3.4|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |FindBugs - findbugs eclipse plugin|6.0|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
