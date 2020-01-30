@@ -6,8 +6,8 @@ Suspect License Report for couchbase-lite-android 2.8.0
 | :--- | :--- | :--- |
 |couchbase-lite-android|android-2.7.0|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
 |OkHttp|3.9.1|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
-|free-jqGrid|4.11.0|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt), [GNU General Public License v2.0 or later](../../license-data/39692bc6-4d1c-4466-a02c-fa6f21170587.txt)|
 |mbed TLS (formerly PolarSSL)|mbedtls-2.19.1|[Unknown License](../../license-data/00000000-0010-0000-0000-000000000000.txt)|
+|free-jqGrid|4.11.0|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt), [GNU General Public License v2.0 or later](../../license-data/39692bc6-4d1c-4466-a02c-fa6f21170587.txt)|
 |zlib|1.2.7|[zlib License](../../license-data/7bf4506f-7531-4655-a4bf-e9deb4d2cc8e.txt)|
 |sqlitecpp|2.4.0|[MIT License](../../license-data/ad705c59-6893-4980-bdbf-0837f1823cc4.txt)|
 |OkIO|1.13.0|[Apache License 2.0](../../license-data/7cae335f-1193-421e-92f1-8802b4243e93.txt)|
