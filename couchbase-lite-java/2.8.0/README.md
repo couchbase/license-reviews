@@ -4,8 +4,8 @@ Suspect License Report for couchbase-lite-java 2.8.0
 
 |Component|Version|License(s)|
 | :--- | :--- | :--- |
-|JSON-java|20180813|[JSON License](../../license-data/1e26c7bd-0277-479d-bc67-454ff0686faa.txt)|
 |Trove4J|1.0.20181211|[GNU Lesser General Public License v2.1 or later](../../license-data/cff110eb-f85c-445c-9d3b-00a04b7f4cf0.txt)|
+|JSON-java|20180813|[JSON License](../../license-data/1e26c7bd-0277-479d-bc67-454ff0686faa.txt)|
 |ANTLR|2.7.7|[ANTLR Software Rights Notice](../../license-data/61aeeb42-688c-4713-804d-4669f66b3fbd.txt)|
 |JUnit|4.12|[Common Public License 1.0](../../license-data/1b4e4c5b-800a-40ec-b4be-c1fc00fe7656.txt)|
 |SpotBugs|3.1.12|[GNU Lesser General Public License v2.1 only](../../license-data/fecf595c-3184-47f4-92f9-1a32ab46a8f1.txt)|
