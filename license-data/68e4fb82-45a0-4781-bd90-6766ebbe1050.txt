@@ -1,0 +1,14 @@
+PROPRIETARY ASSET TEMPLATE
+==========================
+
+
+
+Template Description:
+
+A company has developed a component that is of great value to one highly
+profitable product line and that would also be very useful in the development of
+other products. The availability of the source code of the component to any other
+software company could enable competition with the highly profitable product
+line. Thus, the terms under which another product would use the component would
+permit use and modification of the component, but would prohibit shipment of
+source code to any customer, including to an OEM partner for the second product.
