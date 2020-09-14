@@ -1,0 +1,596 @@
+MASTER AGREEMENT
+----------------
+
+ 
+
+ 
+
+This Master Agreement (the "Agreement") is between GENERIC SOFTWARE SYSTEMS Inc.,
+a Delaware corporation having a place of business at the address listed on the
+front page ("SoftCo") and the entity identified on the signature page of these
+General Terms and Conditions. ("Customer"). The Agreement governs all
+transactions between SoftCo and Customer.   The following, when signed by
+Customer and SoftCo and attached to this Agreement, become a part of  this
+Agreement:
+
+ 
+
+               
+
+The General Terms and Conditions below apply to all transactions.  Terms and
+conditions which apply only to a certain type of transaction are contained in the
+applicable section.  .
+
+ 
+
+I.  GENERAL TERMS AND CONDITIONS
+
+ 
+
+1.  TERM OF AGREEMENT.  This Agreement will begin on the Effective Date set forth
+below and will continue unless terminated as described in Section 3.
+
+ 
+
+2.  PAYMENT.   Customer shall pay all amounts due under this Agreement in U.S.
+dollars to SoftCo at the address above within 30 days from the date of invoice. 
+SoftCo may charge interest on overdue amounts at the rate of 1.5% per month or
+the highest lawful rate, whichever is less. Customer shall be responsible for all
+taxes incurred with respect to the delivery of SoftCo's products and services,
+except those taxes based on SoftCos income or payroll.
+
+ 
+
+3.  TERMINATION.
+
+ 
+
+                3.1  Termination for Breach.  If any material breach of this
+Agreement by either party continues after thirty days' written notice of the
+breach to the other party, the party giving notice may terminate this Agreement
+immediately.
+
+ 
+
+                3.2  Termination for Bankruptcy.  SoftCo may terminate this
+Agreement if Customer files a petition for bankruptcy or has an involuntary
+petition filed on its behalf, and the petition is not terminated or dismissed
+within 60 days.  SoftCo may also terminate this Agreement upon Customer's
+dissolution, liquidation, composition, financial reorganization or
+recapitalization with creditors, assignment for the benefit of creditors, or the
+appointment of a receiver, trustee, custodian, or similar agent for Customer's
+business or property.  Customer agrees that all of its rights under this
+Agreement are personal and shall not be assignable or otherwise transferable in
+any bankruptcy proceedings involving Customer.
+
+ 
+
+                3.3   Termination without Cause.  Either party may terminate this
+Agreement without cause by providing 60 days' written notice to the other party.
+
+               
+
+                3.4  Obligations on Termination.  Upon termination of this
+Agreement:
+
+ 
+
+                (a)  Each party shall continue to be responsible for safeguarding
+the other's proprietary and/or confidential information in accordance with the
+terms of this Agreement.  Subject to the provisions of subsection (d), each party
+shall erase, destroy or return to the other any of the other party's proprietary
+and/or confidential information in its possession. If requested, the other party
+shall verify in writing to the requesting party within thirty days that the
+requesting party's proprietary and/or confidential information has been returned,
+destroyed, or erased.
+
+ 
+
+                (b)  If Customer has licensed the SOFTCO Software as described in
+Addendum A, it shall immediately discontinue use and distribution (if applicable)
+of the SoftCo Software in its possession (including any copies placed in any
+storage device under Customer's control) and return or destroy any such copies
+subject to the provisions of subsection (d).
+
+ 
+
+                (c)  If Customer has obtained the right to distribute Customer
+Application Seat Software as described in Addendum D, its End Users shall be
+permitted the continued and uninterrupted use of the copies of the Developer
+Application Seat Software for the balance of the term of their sublicense
+agreements, so long as the End Users are not in default of those sublicense
+agreements.
+
+ 
+
+                (d)  Customer and each Subdistributor (if applicable) shall have
+the right to retain one copy of the SoftCo Software for which Customer has a
+sublicense agreement currently outstanding and may use such SoftCo Software to
+the extent required for support and maintenance under sublicense agreements. 
+However, Customer and Subdistributors shall have no other right to sublicense or
+otherwise distribute products incorporating the SoftCo Software or any other
+rights with respect to it.
+
+ 
+
+                3.5  Survival.  The provisions of this Agreement related to
+payment and the other provisions of this Agreement which by their nature are so
+intended,  shall survive any termination of this Agreement.
+
+ 
+
+4.  LIMITATION OF LIABILITY.  IN NO EVENT WILL SOFTCO BE RESPONSIBLE FOR ANY
+INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR OTHER INDIRECT DAMAGES OR FOR ANY DAMAGES
+RESULTING FROM INACCURATE OR LOST DATA OR LOSS OF USE OR LOST PROFITS ARISING OUT
+OF OR IN CONNECTION WITH THIS AGREEMENT, THE USE OR PERFORMANCE OF THE SOFTCO
+SOFTWARE, OR ANY SERVICES PERFORMED BY SOFTCO, WHETHER IN AN ACTION IN CONTRACT,
+TORT, OR IN ANY OTHER CAUSE OF ACTION.  IN NO EVENT WILL SOFTCO'S  TOTAL
+LIABILITY FOR ANY DAMAGES IN ANY ACTION BASED ON OR ARISING OUT OF OR IN
+CONNECTION WITH THIS AGREEMENT EXCEED THE TOTAL AMOUNT PAID TO SOFTCO BY CUSTOMER
+DURING THE PRECEDING 12-MONTH PERIOD FOR THE PRODUCT OR SERVICE FORMING THE BASIS
+FOR THE ACTION.
+
+ 
+
+5.  WARRANTIES AND LIMITATIONS.
+
+ 
+
+                5.1  Warranties.  SoftCo warrants to Customer that the SoftCo
+Software, as delivered by SoftCo to Customer and properly installed and operated
+on the computer system on which the SoftCo Software was intended to operate, will
+perform substantially as described in its then-current documentation for ninety
+(90) days from the date of the delivery.  During such 90-day period, if the
+SoftCo Software fails to so perform, Customer shall promptly notify SoftCo of,
+and adequately describe, the failure, and Customer's exclusive remedy and
+SoftCo's sole obligation shall be to take the following actions:
+
+ 
+
+                (a)                ; SoftCo will (i) provide telephone or e-mail
+assistance to the Customer in problem resolution during the period Monday -
+Friday, 9:00 a.m. - 5:30 p.m., United States Eastern Time Zone time and will make
+reasonable efforts to provide work arounds and/or corrections for the reported
+problems in the affected copy of SoftCo Software; or (ii) if such problem
+resolution is not successful, terminate the license and refund the license fee
+paid for the applicable copy of SoftCo Software; and
+
+ 
+
+                (b)                ; SoftCo will supply Internal Improvements to
+Customer as they become generally available.  Only one set of internal
+improvements will be provided per site. 
+
+ 
+
+                5.2                ; Limitations.  Because the SoftCo Software is
+complex, SoftCo does not warrant that the SoftCo Software is error-free or that
+its use will be uninterrupted.  SoftCo shall not be obligated to remedy any
+SoftCo Software defect which cannot be adequately repeated.  The warranties set
+forth in Section 5.1 do not apply to any SoftCo Software which has been (i)
+altered, except by SoftCo or in accordance with its instructions, (ii) used in
+conjunction with another vendor's product resulting in the defect, (iii) the use
+of other than the most current version of the SoftCo Software (to the extent that
+any failure of the SoftCo Software would have been avoided by the use of such
+most current version) or (iv) damaged by improper environment, abuse, misuse,
+accident or negligence.  The warranties set forth in Section 5.1 do not apply to,
+and SoftCo specifically disclaims all warranties concerning, SoftCo Software
+identified in SoftCo's price list or elsewhere as alpha or beta test versions, or
+as unsupported or discontinued versions; such SoftCo Software is furnished on as
+"as-is" basis only.
+
+ 
+
+                THE FOREGOING WARRANTIES ARE EXCLUSIVE REMEDIES AND ARE IN LIEU
+OF ALL OTHER REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED, STATUTORY OR
+OTHERWISE, INCLUDING WITHOUT LIMITATION, ANY WARRANTY OF MERCHANTABILITY OR
+FITNESS FOR A PARTICULAR PURPOSE.  No statement, including without limitation,
+representations regarding capacity, suitability for use or performance of
+Licensor Software, whether made by Licensor's employees or otherwise, shall be
+deemed to be a warranty by Licensor for any purpose or to give rise to any
+liability of Licensor unless contained in this Agreement.
+
+ 
+
+                SoftCo's warranty in Section 5.1 is for the benefit of Customer
+only.  Customer may not grant, assign or otherwise transfer SoftCo's warranty to
+any other person or entity.  SOFTCO MAKES NO OTHER WARRANTY OF ANY KIND TO
+CUSTOMER OR TO ANY OTHER PARTY.
+
+ 
+
+6 . CLAIMS OF INFRINGEMENT.
+
+ 
+
+                6.1                ; Indemnification.  SoftCo will defend or
+settle at its option and expense any action brought against Customer to the
+extent that it is based on a claim that either the SoftCo Software or any other
+deliverable provided under this Agreement ("Deliverable") infringes any United
+States patent or copyright, and SoftCo will pay all damages, costs and expenses
+(including reasonable attorneys' fees) awarded  against Customer, provided that
+Customer (i) notifies SoftCo promptly in writing of the action, (ii) provides
+SoftCo with reasonable information and assistance for the defense or settlement
+of the action, and (iii) grants SoftCo sole authority and control of the defense
+or settlement of the action.   Customer shall have no authority to settle any
+action on behalf of SoftCo, and no costs or expenses shall be incurred for the
+account of SoftCo without its  prior written consent.
+
+ 
+
+                6.2                ; Limitation of Indemnification.  SoftCo shall
+have no liability to Customer to the extent the infringement or claim thereof is
+the result of (i) use of the SoftCo Software or Deliverable in combination with
+other products, devices or software which are not furnished to Customer by
+SoftCo, if the infringement would not have occurred but for the combination; 
+(ii) modification of the SoftCo Software or  Deliverable by other than SoftCo, or
+(iii) use of other than a current unaltered version of the SoftCo Software or
+Deliverable , if such infringement would have been avoided by use of the current
+unaltered version of the SoftCo Software or Deliverable. In the case of Services,
+this indemnification shall not apply to Deliverables based on specifications
+created by Customer or to Deliverables that, in the absence of software or
+equipment provided by Customer, would not infringe the intellectual property
+rights of the affected party.
+
+ 
+
+                6.3                ; Remedies for Infringement.  Should the
+SoftCo Software or Deliverable become, or in the opinion of SoftCo be likely to
+become, the subject of a claim of such an infringement, then SoftCo shall, at its
+option and expense either (i) procure for Customer the right to use the SoftCo
+Software or Deliverable, or (ii) replace or modify the SoftCo Software or
+Deliverable to make it non-infringing, or (iii) if the options described in
+clauses (i) and (ii) are not commercially practical, accept the return of the
+SOFTCO Software or Deliverable (or the infringing part thereof),  terminate the
+licenses granted hereunder, and grant to Customer a refund either for the SoftCo
+Software or, in the case of Services, for the time charged to the Customer for
+the infringing Deliverable.
+
+ 
+
+6.4  Entire Liability.  THIS SECTION STATES THE ENTIRE LIABILITY OF SOFTCO WITH
+RESPECT TO PATENT OR COPYRIGHT INFRINGEMENT CLAIMS CONCERNING THE PROVISION OF
+SERVICES OR CONCERNING THE SOFTCO SOFTWARE OR ITS USE OR OPERATION.
+
+ 
+
+7.  CONFIDENTIALITY.         
+
+ 
+
+                The parties agree not to permit access to or to disclose the
+other partys Confidential Information except to its authorized employees and
+contractors who are bound by confidentiality agreements and who need to use or
+have access to the other partys Confidential Information as permitted by this
+Agreement.  A party shall use at least the same degree of care in protecting the
+other partys Confidential Information as such party generally exercises in
+protecting its own most valuable proprietary information and shall inform its
+employees having access to the Confidential Information of its confidential
+nature. Confidential Informationincludes documents, data, software and
+information which, when provided by one party to the other, are clearly
+identified as Confidentialor Proprietary, or marked with a similar legend. 
+Information disclosed orally or visually that is to be considered Confidential
+Information will be so noted at the time of disclosure and confirmed in writing
+within 10 days.  However, the receiving party shall have no obligation of
+confidentiality with respect to any Confidential information which: (a) is
+already known to the receiving party at the time of disclosure;  (b) is or
+subsequently becomes publicly available through no wrongful act of the receiving
+party;  (c) is disclosed to or provided to the receiving party by a third party
+without restriction;  or (d) is developed independently by the receiving party
+without use of or access to the disclosing partys Confidential Information.
+
+ 
+
+8.  GENERAL.
+
+ 
+
+                (a)                ;   Governing Law.  This Agreement shall be
+governed in all respects by the laws of the Commonwealth of Massachusetts without
+giving effect to principles of conflict of laws.  The United Nations Convention
+for the International Sale of Goods shall not apply to this Agreement.
+
+ 
+
+                (b)                ;   Notices.  All notices or reports shall be
+in writing and shall be delivered by personal delivery, facsimile transmission,
+or by certified or registered mail, return receipt requested, and shall be deemed
+given upon personal delivery, five days after deposit in the mail, or upon
+acknowledgment of receipt of electronic transmission.  Notices shall be sent to
+the addresses set forth on the first page of this Agreement or to such other
+address as either party may specify in writing.
+
+ 
+
+                (c)                ;   No Agency.  Nothing contained in this
+Agreement shall be construed as creating any agency, partnership, or other form
+of joint enterprise between the parties.
+
+ 
+
+                (d)                ;   Injunctive Relief.  Customer acknowledges
+that its breach of this Agreement may cause SoftCo irreparable damage for which
+recovery of money damages would be inadequate.  Therefore, it agrees that SoftCo
+shall be entitled to seek injunctive relief to protect its rights under this
+Agreement in addition to any other remedies.
+
+ 
+
+                (e)                ;   Force Majeure.  Neither party shall be
+liable to the other for any failure or delay in the performance of its
+obligations (except for the payment of money) for any cause which is beyond the
+reasonable control of such party.
+
+ 
+
+                (f)                ;   Waiver.  If one party fails to enforce a
+provision of this Agreement, it shall not be precluded from enforcing the same
+provision at another time.
+
+ 
+
+                (g)                ;   Severability.  If any provision of this
+Agreement is deemed unenforceable or invalid by law or by a court decision,  the
+provision shall be changed and interpreted if possible to accomplish the intent
+of the provision within the constraints of the law.  Only that provision, and not
+the entire agreement, shall be invalidated.
+
+ 
+
+                (h)                ;   Assignment.  Customer may not assign this
+Agreement, in whole or in part,  or any rights or obligations created by it,
+without the prior written consent of SoftCo, which consent shall not be
+unreasonably withheld.  Any such attempted assignment shall be void.
+
+ 
+
+                (i)                ; No Conflicting Terms. SoftCo shall not
+accept, and this Agreement does not operate as an acceptance of, any different or
+additional terms and conditions, and this Agreement shall prevail over any such
+different or additional provisions, of any order of Customer or any other
+instruments.
+
+ 
+
+                (j)                ;   Entire Agreement.  This Agreement
+supersedes all previous agreements, whether oral or written, with respect to its
+subject matter.  This Agreement may only be changed in a writing signed by
+authorized representatives of each party.
+
+ 
+
+.SOFTWARE LICENSE
+
+ 
+
+1.                LICENSE GRANT.
+
+ 
+
+"SoftCo Software" means the computer software code in object code form provided
+by SoftCo, including all associated updates, upgrades, and documentation. With
+respect to any copies of the SoftCo Software ordered by Customer for its internal
+use, SoftCo hereby grants to Customer a non-exclusive, non-transferable, personal
+license during the term of this Agreement, subject to Customer's compliance with
+the terms and conditions of this Agreement, to use such copies of  SoftCo
+Software internally solely at the location set forth on the signature page of the
+Master Agreement (or such other location as Customer may designate in writing). 
+The SoftCo Software  may be used by Customer at any one time by no more than the
+number of simultaneous users for which license fees have been paid to SoftCo
+
+ 
+
+2.   LICENSE FEES.   For each copy of SoftCo Software licensed by Customer for
+internal use pursuant to Section 1 above, Customer shall pay SoftCo the
+applicable license fee.
+
+ 
+
+3.    LIMITATIONS ON USE.  This Agreement does not grant to Customer any right to
+copy SoftCo Software. Customer may not reverse engineer, reverse compile, or
+otherwise attempt to recreate the source code version of the SoftCo Software. The
+SoftCo Software constitutes "restricted rights" software for purposes of
+government contracting and subcontracting.
+
+ 
+
+4.   DELIVERY.  SoftCo will use its best efforts to ship within thirty (30) days
+of its acceptance of Customer's order.  Customer shall pay all costs of
+shipping.   Delivery will be FOB SoftCo's plant or manufacturing source, at
+SoftCo's option.  In the absence of prior shipping instructions, SoftCo will
+select the carrier on behalf of Customer, but shall not assume any liability for
+shipment or choice of carrier, nor shall the carrier be construed to be an agent
+of SoftCo.
+
+ 
+
+CUSTOMER APPLICATION SEAT DISTRIBUTION
+
+ 
+
+1.  DEFINITIONS
+
+ 
+
+"End User" means a user of Customer Application Seat Software.
+
+ 
+
+"Customer Application Seat Software" means a software product developed,
+marketed, and supported by Customer consisting of an integrated combination of
+(i) certain components of the SoftCo Software and (ii) software developed and
+supported by Customer.  For a product to qualify as Customer Application Seat
+Software, Customer must have added substantial value to the SoftCo Software when
+creating the Customer Application Seat Software, such that the portion of the
+value of the Customer Application Seat Software consisting of SoftCo Software is
+less than 50% of the total value of the  Customer Application Seat Software. 
+Furthermore, the End User must believe that it is acquiring a turnkey value-added
+application product that is substantially different from SoftCo Software standing
+alone.  Customer Application Seat Software must be a product targeted for a
+vertical  market and cannot be sold or marketed as a general purpose
+visualization or development product.  Customer Application Seat Software
+includes documentation relating to the Customer Application Seat Software.
+
+ 
+
+Subdistributor.  "Subdistributor" means a third party distributor of Customer's
+products which has entered into a Sublicense Agreement with Customer. 
+
+ 
+
+Sublicense Agreement.  "Sublicense Agreement" means a sublicense agreement from
+Customer to a Subdistributor or to a Customer Application Seat  End-User, or from
+a Subdistributor to a Customer Application Seat End-User, which is consistent
+with this Agreement and which contains provisions that are at least as protective
+of SOFTCOand the SoftCo Software as those contained in this Agreement.
+
+ 
+
+2.   LICENSE TO SUBLICENSE CUSTOMER APPLICATION SEAT SOFTWARE.  SOFTCOgrants to
+Customer a non-exclusive, non-transferable, personal license during the term of
+this Agreement and subject to Customer's compliance with the terms and conditions
+of this Agreement, to sublicense Customer Application Seat Software to End Users
+as follows: 
+
+ 
+
+                (a)                ; Each sublicense to a End User shall be for a
+single copy of Customer Application Seat Software in object code form for use (i)
+in the case of a Locked License, by a single user on a single End User Designated
+System, and (ii) in the case of a Floating License, for use at any one time by no
+more than the number of simultaneous users for which license fees have been paid
+by Customer to SOFTCO for such copy.
+
+ 
+
+                (b)                ; Customer may distribute Customer Application
+Seat Software to End Users through Subdistributors who are part of Customer's
+normal distribution channels.
+
+ 
+
+                (c)                ; Customer shall not distribute SoftCo
+Software, directly or indirectly, except as integrated into Customer Application
+Seat Software in object code form pursuant to the terms of this Agreement. 
+Customer shall not knowingly distribute Customer Application Seat Software to End
+Users who intend to use the SoftCo Software contained in the Customer Application
+Seat Software to run applications other than the applications provided in the
+Customer Application Seat Software.
+
+ 
+
+(d)                ; Customer will protect SoftCo's proprietary rights in the
+SoftCo Software and will cause each Subdistributor and third party End User to
+sign a Sublicense Agreement prior to receipt of a copy of the Customer
+Application Seat Software or will distribute the Customer Application Seat
+Software with an enforceable shrink-wrap, click-wrap, or similar license.
+
+ 
+
+                (e)                ; Except for the purpose of creating copies of
+the Customer Application Seat Software to Sublicense to End Users, this Agreement
+does not grant to Customer any right to copy SoftCo Software.  SOFTCO shall ship
+to Customer the copies of the SoftCo Software to be used for internal use.
+
+ 
+
+                (f)                ; If SOFTCOuses, in conjunction with its
+distribution of the SoftCo Software, software serialization, copy protection, or
+any other mechanism to restrict or monitor unauthorized use of the SoftCo
+Software, Customer shall also use such mechanism(s) in conjunction with the
+Customer Application Seat Software which it distributes.  Customer agrees not to
+disable or impair, and to use best efforts to cause End Users not to disable or
+impair, the features of the SoftCo Software that restrict its use to a particular
+computer system and/or number of users; provided, however, that SOFTCOand
+Customer may agree that Customer may use its own "licensing manager" mechanism
+that is substantially equivalent to that used by AVS, in which case SOFTCOand
+Customer shall describe such mechanism on, and initial, the space above the
+signature lines of this Addendum.
+
+ 
+
+3. REPORTING; PAYMENT. 
+
+ 
+
+3.1  Within thirty (30) days after the end of each calendar month, Customer shall
+deliver to SOFTCOa written statement certified by an authorized representative of
+Customer showing for such month  (i) the sublicenses entered into by Customer and
+any Subdistributor broken down by type, and (ii) the model, serial number (or
+Host I.D. or other unique system identifier) of the End User Designated System
+and/or the number of authorized users covered by each such sublicense.   Customer
+shall include the required payment with its report.
+
+ 
+
+3.2   Right of Audit.  To ensure compliance with the terms of this Agreement,
+SoftCo shall have the right, not more than once per year and upon 30 days'
+notice, to have an inspection and audit of all the relevant of Customer conducted
+by an independent certified public accountant reasonably acceptable to both
+parties whose fee is paid by SoftCo, which shall be conducted during regular
+business hours at Customer's offices and in such a manner as not to interfere
+with Customer's normal business activities.  Customer will promptly pay SoftCo
+any amounts determined to have been underpaid.
+
+ 
+
+4.  COPYRIGHTS AND OTHER NOTICES.  In order to protect SOFTCOS copyright and
+other ownership interests, Customer agrees that each copy of the Customer
+Application Seat Software which Customer distributes hereunder shall contain the
+same copyright notices which appear on or in the SoftCo Software delivered by
+SOFTCOto Customer.  The SoftCo Software constitutes "restricted rights" software
+for purposes of government contracting and subcontracting.  Customer shall ensure
+that the rights granted to the U.S. Government or any U.S. Government
+subcontractor shall be only those minimum "restricted rights" described in FAR
+52.227-19 or DFARS 252.227-7013(c)(1) or successor regulations.  Customer shall
+include all appropriate restricted rights legends on any Customer Product.
+
+ 
+
+5.  LIMITATION OF WARRANTY. SOFTCOMAKES NO WARRANTY WITH RESPECT TO THE CUSTOMER
+APPLICATION SEAT SOFTWARE, WHETHER EXPRESS OR IMPLIED, STATUTORY OR OTHERWISE,
+INCLUDING WITHOUT LIMITATION, ANY WARRANTY OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+ 
+
+6.  ENFORCEMENT OF SUBLICENSES.  Customer shall use its best efforts to cause
+each Subdistributor and End User to comply with the terms of its applicable
+Sublicense Agreement, which efforts may include, among other things, the
+termination of any such Sublicense Agreement.
+
+ 
+
+[Initial if Applicable:]
+
+Customer and SOFTCO have agreed that instead of the licensing manager used by
+Softco, Customer shall use the following licensing mechanism when distributing
+Customer Application Seat Software (Describe):
+________________________________.    SoftCo: _____   Customer: _____
+
+ 
+
+GENERIC SOFTWARE SYSTEMS INC.
+
+. CUSTOMER
+
+ 
+
+By: ___________________________            ;               &
+nbsp;              &nb sp;    By:____________________________
+
+ 
+
+Printed Name: __________________            &n bsp;              &nbs p;       
+Printed Name: ___________________
+
+ 
+
+Title: __________________________                                  Title:
+__________________________
+
+ 
+
+Date: __________________________
+
+ 
