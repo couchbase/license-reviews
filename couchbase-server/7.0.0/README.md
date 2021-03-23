@@ -4,6 +4,7 @@ Suspect License Report for couchbase-server 7.0.0
 
 |Component|Version|License(s)|
 | :--- | :--- | :--- |
+|blevesearch/upsidedown_store_api|v1.0.1|[Unknown License](../../license-data/00000000-0010-0000-0000-000000000000.txt)|
 |libstdc++|7.3.1|[GNU General Public License v3.0 w/GCC Runtime Library exception](../../license-data/3a5d4424-557d-49fa-9416-71c06026fe07.txt)|
 |libgcc|7.3.1|[GNU General Public License v3.0 w/GCC Runtime Library exception](../../license-data/3a5d4424-557d-49fa-9416-71c06026fe07.txt)|
 |OpenJDK|11.0.10+9|[GNU General Public License v2.0 w/Classpath exception](../../license-data/9b7eb3ce-d64b-4e3e-a6b7-55d4dc798e68.txt)|
