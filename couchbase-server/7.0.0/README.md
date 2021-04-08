@@ -8,10 +8,6 @@ Suspect License Report for couchbase-server 7.0.0
 |python-certifi|2020.12.5|[Mozilla Public License 2.0](../../license-data/ce3dd63e-c569-4cea-986a-46bc5efe9896.txt)|
 |libstdc++|7.3.1|[GNU General Public License v3.0 w/GCC Runtime Library exception](../../license-data/3a5d4424-557d-49fa-9416-71c06026fe07.txt)|
 |libgcc|7.3.1|[GNU General Public License v3.0 w/GCC Runtime Library exception](../../license-data/3a5d4424-557d-49fa-9416-71c06026fe07.txt)|
-|couchbase/cbflag|20201020-snapshot-3393038a|[Unknown License](../../license-data/00000000-0010-0000-0000-000000000000.txt)|
 |OpenJDK|11.0.10+9|[GNU General Public License v2.0 w/Classpath exception](../../license-data/9b7eb3ce-d64b-4e3e-a6b7-55d4dc798e68.txt)|
 |libnuma1|2.0.11|[GNU Lesser General Public License v2.1 or later](../../license-data/cff110eb-f85c-445c-9d3b-00a04b7f4cf0.txt)|
-|go.googlesource.com/term|20210219-snapshot-6a3ed077|[Unknown License](../../license-data/00000000-0010-0000-0000-000000000000.txt)|
-|go.googlesource.com/term|20201126-snapshot-7de9c90e|[Unknown License](../../license-data/00000000-0010-0000-0000-000000000000.txt)|
-|go.googlesource.com/term|20200929-snapshot-f5c789dd|[Unknown License](../../license-data/00000000-0010-0000-0000-000000000000.txt)|
 |chardet|4.0.0|[GNU Lesser General Public License v3.0 or later](../../license-data/bf913382-7596-42ad-8385-2f49fa655362.txt)|
